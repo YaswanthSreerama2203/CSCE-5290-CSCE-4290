@@ -1,0 +1,5 @@
+
+Process to run the Code.
+* Driver.py is the main file which consists	of all the remaining files imported in it and this file takes input as input.txt file where we have given the text. 
+* Input.txt is the input provided to the program.
+
